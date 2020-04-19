@@ -171,6 +171,7 @@
     .input {
         font-size: 18;
         placeholder-color: #595959;
+        color: #595959;
     }
 
     .input:disabled {
